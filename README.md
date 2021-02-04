@@ -1,4 +1,11 @@
 # Horiseon
+
+I edited the provided HTML elements to make them more accesible.
+
+![HTML Screenshot](./assets/images/HTML-Screenshot.png)
+
+https://ndahlberg95.github.io/Horiseon/
+
 CHALLENGE 1: EDIT THE HORISEON HTML TO BE ACCESSIBLE.
 
 This week is an odd-numbered week, so your Challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: accessibility.
