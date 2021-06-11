@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Begin Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +41,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* End Header */
 
 a {
     color: #ffffff;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Begin Hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -80,6 +83,7 @@ p {
     margin-left: 20px;
 }
 
+/* Begin Search Engine Optimization */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -97,7 +101,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End Search Engine Optimization */
 
+
+/* Begin Online Reputation Management */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,7 +122,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End Online Reputation Management */
 
+
+/* Begin Social Media Marketing */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -133,7 +143,11 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End Social Media Marketing */
+/* End Hero */
 
+
+/* Begin Benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -199,7 +213,10 @@ p {
     font-size: 32px;
     margin-bottom: 32px;
 }
+/* End Benefits */
 
+
+/* Begin Footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -210,3 +227,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* End Footer */
