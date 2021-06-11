@@ -52,7 +52,6 @@ p {
     font-size: 16px;
 }
 
-/* Begin Hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,21 +59,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.search-engine-optimization img {
-    float: left;
-    margin-right: 25px;
-}
-
-.online-reputation-management img {
-    float: right;
-    margin-left: 25px;
-}
-
-.social-media-marketing img {
-    float: left;
-    margin-right: 25px;
 }
 
 .content {
@@ -94,6 +78,8 @@ p {
 }
 
 .search-engine-optimization img {
+    float: left;
+    margin-right: 25px;
     max-height: 200px;
 }
 
@@ -115,6 +101,8 @@ p {
 }
 
 .online-reputation-management img {
+    float: right;
+    margin-left: 25px;
     max-height: 200px;
 }
 
@@ -136,6 +124,8 @@ p {
 }
 
 .social-media-marketing img {
+    float: left;
+    margin-right: 25px;
     max-height: 200px;
 }
 
@@ -144,7 +134,6 @@ p {
     font-size: 36px;
 }
 /* End Social Media Marketing */
-/* End Hero */
 
 
 /* Begin Benefits */
